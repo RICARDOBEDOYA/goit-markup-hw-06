@@ -508,6 +508,7 @@ textarea:hover {
 .footer-date {
   margin-left: 20px;
 }
+
 address {
   font-style: normal;
   font-weight: 400;
@@ -518,6 +519,7 @@ address {
   /* or 171% */
   color: var(--white-color);
 }
+
 .style {
   display: flex;
   flex-direction: column;
@@ -525,7 +527,6 @@ address {
 .email,
 .secondphone {
   line-height: 24px;
-
   color: rgba(255, 255, 255, 0.6);
 }
 
